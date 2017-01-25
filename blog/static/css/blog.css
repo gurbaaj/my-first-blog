@@ -4,7 +4,7 @@ body {
 }
 .page-header {
     background-color: #a259c1;
-    margin-top: 0;
+    margin-top: 10;
     padding: 20px 20px 20px 40px;
 }
 
@@ -15,15 +15,16 @@ body {
 }
 
 .content {
-    margin-left: 50px;
+    margin-left: 20px;
 }
 
-h1, h2, h3, h4 {
+h1,h2,h3,h4 {
     font-family: 'Lobster', cursive;
 }
 
 .date {
     color: #4f4554;
+    text-align:right;
 }
 
 .save {
@@ -39,12 +40,14 @@ h1, h2, h3, h4 {
     float: right;
     font-size: 26pt;
     margin-right: 20px;
+    margin-top:25px;
 }
 
 .post {
     margin-bottom: 60px;
     font-family:'Comic Sans MS';
     font-size:25px;
+    margin-left:50px;
 }
 
 .post h1 a {
@@ -53,6 +56,3 @@ h1, h2, h3, h4 {
 .post h1 a:hover{
 color:#4c4a4f
 }
-.btn btn-default{
-float: right;
-} 
