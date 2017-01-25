@@ -44,6 +44,7 @@ h1, h2, h3, h4 {
 .post {
     margin-bottom: 60px;
     font-family:'Comic Sans MS',cursive;
+    font-size:25px;
 }
 
 .post h1 a {
