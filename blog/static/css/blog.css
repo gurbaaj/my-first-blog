@@ -53,4 +53,6 @@ h1, h2, h3, h4 {
 .post h1 a:hover{
 color:#4c4a4f
 }
- 
+.btn btn-default{
+float: right;
+} 
